@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "gettyjava": {
+      "commandName": "Project",
+      "commandLineArgs": "-Djava.security.manager=worker.org.gradle.process.internal.worker.child.BootstrapSecurityManager -Dorg.gradle.native=false -Xmx512m -Dfile.encoding=windows-1252 -Duser.country=US -Duser.language=en -Duser.variant -ea -cp C:\\Users\\massi\\.gradle\\caches\\6.1.1\\workerMain\\gradle-worker.jar worker.org.gradle.process.internal.worker.GradleWorkerMain 'Gradle Test Executor 7'"
+    }
+  }
+}
